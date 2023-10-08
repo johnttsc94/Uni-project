@@ -1,1 +1,1 @@
-
+In this project, I have created a Python program that generates image hashes based on several image-hashing techniques. After that, I have computed the similarity index of the images based on the hashes
