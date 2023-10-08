@@ -1,1 +1,1 @@
-In this project, I have utilize the NFC function to create a business card that holds the website to the card owner business profile webpage whereby the webpage is highly customizable by the owner and all the changes are immediately reflected on the webpage.
+In this project, I have utilize the NFC function to create a business card that holds the website link to the card owner's business profile webpage whereby the webpage is highly customizable by the owner and all the changes are immediately reflected on the webpage.
