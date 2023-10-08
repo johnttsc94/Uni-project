@@ -1,1 +1,1 @@
-# In this project, I have applied the linear regression method to the TBS - Data 4.xlsx dataset. The purpose of doing so is to find out how the planned production (x-axis) determines the total manpower needed (y-axis). The interpreted result are compiled in the attached word document.
+In this project, I have applied the linear regression method to the TBS - Data 4.xlsx dataset. The purpose of doing so is to find out how the planned production (x-axis) determines the total manpower needed (y-axis). The interpreted result are compiled in the attached word document.
