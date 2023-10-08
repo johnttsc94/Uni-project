@@ -1,1 +1,1 @@
-
+In this project, I have applied various analytics techniques to the housing price dataset to discover the factor that is affecting the house price in Melbourne. The code folder stores the methodology used in this project, while the dataset folder holds the dataset that was used in this project, and the report folder is the finalized document that comprises of every work carry out in this project
