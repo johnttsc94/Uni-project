@@ -1,1 +1,1 @@
-
+In this project, I have customize my plots with appropriate labels, titles, and color schemes for better interpretation. I have also include a brief summary of your findings based on the visualizations
