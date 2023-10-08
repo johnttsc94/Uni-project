@@ -1,1 +1,1 @@
-
+In this project, I am playing the role of a computer forensic analyst which has seized the phone of a scammer that is suspected of being a scammer preying on vulnerable single ladies and extorting money from them on dating apps like Tinder and CoffeeMeetsBagel.
